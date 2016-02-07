@@ -6,6 +6,8 @@ Dieser Mod enthält nur eine beispiel Ausgaben und dient nur zum Zweck der Demon
 Du kannst diese Version aber gerne anpassen und erweitern.
 
 ## Installation:
+Die Aktuellste Version kannst du [hier](https://github.com/x-J-Dev-x/Something-s-In-The-Air-Pandorya-Voice-Mod/releases) downloaden.
+
 1. Kopiere einfach alle Dateien in das Hauptverzeichnis von "Something's In The Air" 
 2. Starte das Spiel (**FERTIG!**)
 

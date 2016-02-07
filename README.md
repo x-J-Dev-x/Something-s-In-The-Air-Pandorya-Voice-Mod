@@ -7,6 +7,7 @@ Du kannst diese Version aber gerne anpassen und erweitern.
 
 ## Erweiterung
 Hier eine kleine Anleitung wie man weitere Sprachausgaben hinzufügt.
+
 1. Audio-Datei in das Verzeichnis **game/voice/** als mp3 Datei ablegen (Andere Formate funktionieren evtl. auch hab ich aber nicht getestet)
 2. Öffne nun das Script für den gewünschten Character, welche unter **game/** liegen (bspw. **ariane.rpy** für Ariane)
 3. Suche die Stelle für den die Sprachausgabe ist

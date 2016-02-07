@@ -2,7 +2,7 @@
 Fügt ein paar Sprachausgaben von Pandorya zu "Something's In The Air" hinzu.
 
 ## Hinweis
-Dieser Mod enthält nur eine beispiel Ausgaben und dient nur zum Zweck der Demonstration.
+Dieser Mod enthält nur einige beispiel Ausgaben und dient nur zum Zweck der Demonstration.
 Du kannst diese Version aber gerne anpassen und erweitern.
 
 ## Installation:

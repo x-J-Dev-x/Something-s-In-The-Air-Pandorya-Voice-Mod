@@ -11,7 +11,7 @@ Hier eine kleine Anleitung wie man weitere Sprachausgaben hinzufügt.
 1. Audio-Datei in das Verzeichnis **game/voice/** als mp3 Datei ablegen (Andere Formate funktionieren evtl. auch hab ich aber nicht getestet)
 2. Öffne nun das Script für den gewünschten Character, welche unter **game/** liegen (bspw. **ariane.rpy** für Ariane)
 3. Suche die Stelle für den die Sprachausgabe ist
-4. Füge **play sound "voice/<DATEINAME>.mp3" fadein 0** über die Zeile ein
+4. Füge **play sound "voice/DATEINAME.mp3" fadein 0** über die Zeile ein
 5. Füge **stop sound fadeout 0** unter die Zeile ein
 
 Bei Menüs sieht das etwas anders aus, aber an besten meine Datei anschauen.
